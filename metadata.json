@@ -1,0 +1,8 @@
+{
+  "name": "MNFP Official Business Hub",
+  "description": "A premium business ecosystem for MNFP members featuring an exclusive shop, real-time tracking, and a Gemini-powered business assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
